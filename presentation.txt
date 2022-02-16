@@ -1,0 +1,13 @@
+1. QUEL EST LE PARENT DU DOSSIER CODELAB
+	Son parent est le dossier user, dans mon cas : nbdyn
+
+2. QUELS SONT LES ENFANTS DU DOSSIER CODELAB
+	Les enfants du dossier CODELAB sont: Screenshot_1.jpg, presentation.txt, index.html, firstApp, armoire
+
+
+DEPLACER Capture_2 vers amoire:	mv firstApp/Capture_2.jpg armoire
+
+
+
+
+
